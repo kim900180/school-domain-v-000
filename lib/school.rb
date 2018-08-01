@@ -17,7 +17,7 @@ class School
     end
   end
 
-  def grade
-    puts @roster[grade]
-  end
+  # def grade
+  #   puts @roster[grade]
+  # end
 end
